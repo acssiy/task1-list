@@ -7,6 +7,6 @@
 <title>私有数据集:示例2</title>
 </head>
 <body>
-<div style="position:absolute; width:100%; height:100%; z-index:-1"><img  style="position:fixed"; src="5.jpg" height="100%" width="100%"></div>
+<div style="position:absolute; width:100%; height:100%; z-index:-1"><img  style="position:fixed" src="5.jpg" height="100%" width="100%"></div>
 </body>
 </html>

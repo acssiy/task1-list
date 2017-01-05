@@ -12,15 +12,13 @@ th{border-color:white}
 </style>
  
 <title>数据集</title>
+</head>
+<body>
 <table border="3" align="center">
     <tr><th>数据集类型</th></tr>
     
     <tr><td><a href="pages/public.jsp">公有数据集</a></td></tr>
     <tr><td><a href="pages/private.jsp">私有数据集</a></td></tr>
 </table>
-</div>
-</head>
-<body>
-
 </body>
 </html>
